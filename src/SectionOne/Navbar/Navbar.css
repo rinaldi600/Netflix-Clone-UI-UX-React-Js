@@ -1,0 +1,21 @@
+.navbar {
+    min-height: 100px;
+}
+
+.link-menu ul li a {
+    font-family: "OpenSans-Regular";
+    color: #6A6D72;
+}
+.link-menu ul li a:hover {
+    border-bottom: 3px solid #E50914;
+    padding: 5px;
+}
+
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url("../../font/OpenSans-Light.ttf");
+}
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../../font/OpenSans-Regular.ttf");
+}

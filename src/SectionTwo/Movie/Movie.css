@@ -1,0 +1,17 @@
+.details-movie {
+    color: #767F88;
+}
+.round {
+    border-radius: 20px;
+}
+.icons-detail p {
+    font-size: 14px;
+}
+.font {
+    font-family: "OpenSans-Regular";
+}
+
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../../font/OpenSans-Regular.ttf");
+}

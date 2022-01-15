@@ -1,0 +1,18 @@
+.navbar {
+    font-family: "OpenSans-Regular";
+}
+.navbar-link {
+    min-height: 50px;
+}
+ul li a {
+    color: #767F88;
+}
+
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url("../../font/OpenSans-Light.ttf");
+}
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../../font/OpenSans-Regular.ttf");
+}

@@ -1,0 +1,7 @@
+.text-font {
+    font-family: "OpenSans-Regular";
+}
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../../../font/OpenSans-Regular.ttf");
+}
